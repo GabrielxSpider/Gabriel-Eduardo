@@ -13,7 +13,7 @@
 - **Concepts:** Data manipulation, input validation, algorithms
 
  📂 Projects
-Check out my pinned repositories below — more coming soon!
+- Check out my pinned repositories below — more coming soon!
 
  🌍 Let's Connect
-Feel free to reach out or check my CV in my resume!
+- Feel free to reach out or check my CV in my resume!
