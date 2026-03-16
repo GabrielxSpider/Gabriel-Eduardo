@@ -8,8 +8,8 @@
 📌 Building practical projects to strengthen my skills
 
  🛠️ Skills
-- **Languages:** Python, HTML, CSS
-- **Tools:** VS Code, Git
+- **Languages:** Python, HTML, CSS, SQL
+- **Tools:** VS Code, Git, Github
 - **Concepts:** Data manipulation, input validation, algorithms
 
  📂 Projects
