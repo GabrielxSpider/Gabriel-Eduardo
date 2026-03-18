@@ -7,12 +7,12 @@
 🔍 Interested in software development and IT support  
 📌 Building practical projects to strengthen my skills
 
- 🛠️ Skills
+## 🛠️ Skills
 - **Languages:** Python, HTML, CSS, SQL
 - **Tools:** VS Code, Git, Github
 - **Concepts:** Data manipulation, input validation, algorithms
 
- 📂 Projects
+## 📂 Projects
 - Check out my pinned repositories to see my current projects — more coming soon!
 
 # 🇧🇷 Português
